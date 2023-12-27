@@ -60,3 +60,4 @@ builds/**/images/*
 # Ignore the following ones as well
 main
 tmp
+vendor/
