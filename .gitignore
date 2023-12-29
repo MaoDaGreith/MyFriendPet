@@ -62,3 +62,4 @@ main
 tmp
 vendor/
 config/config.yaml
+.json
