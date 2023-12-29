@@ -1,0 +1,8 @@
+listen: 0.0.0.0:8000 #service will listen on default ":8000"
+
+db:                           #config for db
+  user: root                  #db user
+  password: password          #db user's password
+  host: localhost:3307        #db host
+  name: world                 #db name
+  enable_multi_statement: true #flag that enables/disables the run of multiple statements 
