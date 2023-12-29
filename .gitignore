@@ -61,3 +61,4 @@ builds/**/images/*
 main
 tmp
 vendor/
+config/config.yaml
